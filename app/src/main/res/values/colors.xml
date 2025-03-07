@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#6200EE</color> <!-- Purple splash background -->
+    <color name="primaryColor">#03DAC5</color> <!-- Purple -->
+    <color name="primaryDarkColor">#3700B3</color> <!-- Dark Purple -->
+    <color name="accentColor">#03DAC5</color> <!-- Teal -->
+    <color name="textColorPrimary">#000000</color> <!-- Black -->
+    <color name="textColorSecondary">#757575</color> <!-- Grey -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- White -->
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

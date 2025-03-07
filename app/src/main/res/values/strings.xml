@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AldiDicoding</string>
+    <string name="splash_screen_message">Selamat Datang di AplikasiKu</string>
+    <string name="main_title">Article List</string>
+    <string name="detail_title">Article Details</string>
+    <string name="about_title">About</string>
+    <string name="share_action">Share</string>
+    <string name="author_label">Author</string>
+    <string name="published_label">Published on</string>
+    <string name="email">gippy@dicoding.com</string>
+    <string name="name">Gippy</string>
+    <string name="action_share">Share</string>
+    <string name="about_page_title">About Page</string>
+    <string name="description_image">Ini Foto</string>
+    <string name="halaman_detail">Halaman Detail</string>
+    
+    <string name="list">Ubah Tampilan ke List</string>
+    <string name="grid">Ubah Tampilan ke Grid</string>
+</resources>
